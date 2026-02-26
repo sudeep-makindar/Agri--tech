@@ -1,0 +1,532 @@
+{
+    "Apple___Apple_scab": {
+        "description": "The plant is showing signs of Apple scab.",
+        "treatment_steps": [
+            "Remove affected parts of the plant.",
+            "Ensure proper air circulation.",
+            "Avoid overhead watering."
+        ],
+        "product_recommendations": [
+            "Standard broad-spectrum fungicide",
+            "Organic neem oil spray"
+        ]
+    },
+    "Apple___Black_rot": {
+        "description": "The plant is showing signs of Black rot.",
+        "treatment_steps": [
+            "Remove affected parts of the plant.",
+            "Ensure proper air circulation.",
+            "Avoid overhead watering."
+        ],
+        "product_recommendations": [
+            "Standard broad-spectrum fungicide",
+            "Organic neem oil spray"
+        ]
+    },
+    "Apple___Cedar_apple_rust": {
+        "description": "The plant is showing signs of Cedar apple rust.",
+        "treatment_steps": [
+            "Remove affected parts of the plant.",
+            "Ensure proper air circulation.",
+            "Avoid overhead watering."
+        ],
+        "product_recommendations": [
+            "Standard broad-spectrum fungicide",
+            "Organic neem oil spray"
+        ]
+    },
+    "Apple___healthy": {
+        "description": "The plant is healthy.",
+        "treatment_steps": [
+            "Continue regular care and monitoring."
+        ],
+        "product_recommendations": []
+    },
+    "Blueberry___healthy": {
+        "description": "The plant is healthy.",
+        "treatment_steps": [
+            "Continue regular care and monitoring."
+        ],
+        "product_recommendations": []
+    },
+    "Cherry_(including_sour)___Powdery_mildew": {
+        "description": "The plant is showing signs of Powdery mildew.",
+        "treatment_steps": [
+            "Remove affected parts of the plant.",
+            "Ensure proper air circulation.",
+            "Avoid overhead watering."
+        ],
+        "product_recommendations": [
+            "Standard broad-spectrum fungicide",
+            "Organic neem oil spray"
+        ]
+    },
+    "Cherry_(including_sour)___healthy": {
+        "description": "The plant is healthy.",
+        "treatment_steps": [
+            "Continue regular care and monitoring."
+        ],
+        "product_recommendations": []
+    },
+    "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+        "description": "The plant is showing signs of Cercospora leaf spot Gray leaf spot.",
+        "treatment_steps": [
+            "Remove affected parts of the plant.",
+            "Ensure proper air circulation.",
+            "Avoid overhead watering."
+        ],
+        "product_recommendations": [
+            "Standard broad-spectrum fungicide",
+            "Organic neem oil spray"
+        ]
+    },
+    "Corn_(maize)___Common_rust_": {
+        "description": "The plant is showing signs of Common rust .",
+        "treatment_steps": [
+            "Remove affected parts of the plant.",
+            "Ensure proper air circulation.",
+            "Avoid overhead watering."
+        ],
+        "product_recommendations": [
+            "Standard broad-spectrum fungicide",
+            "Organic neem oil spray"
+        ]
+    },
+    "Corn_(maize)___Northern_Leaf_Blight": {
+        "description": "The plant is showing signs of Northern Leaf Blight.",
+        "treatment_steps": [
+            "Remove affected parts of the plant.",
+            "Ensure proper air circulation.",
+            "Avoid overhead watering."
+        ],
+        "product_recommendations": [
+            "Standard broad-spectrum fungicide",
+            "Organic neem oil spray"
+        ]
+    },
+    "Corn_(maize)___healthy": {
+        "description": "The plant is healthy.",
+        "treatment_steps": [
+            "Continue regular care and monitoring."
+        ],
+        "product_recommendations": []
+    },
+    "Grape___Black_rot": {
+        "description": "The plant is showing signs of Black rot.",
+        "treatment_steps": [
+            "Remove affected parts of the plant.",
+            "Ensure proper air circulation.",
+            "Avoid overhead watering."
+        ],
+        "product_recommendations": [
+            "Standard broad-spectrum fungicide",
+            "Organic neem oil spray"
+        ]
+    },
+    "Grape___Esca_(Black_Measles)": {
+        "description": "The plant is showing signs of Esca (Black Measles).",
+        "treatment_steps": [
+            "Remove affected parts of the plant.",
+            "Ensure proper air circulation.",
+            "Avoid overhead watering."
+        ],
+        "product_recommendations": [
+            "Standard broad-spectrum fungicide",
+            "Organic neem oil spray"
+        ]
+    },
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+        "description": "The plant is showing signs of Leaf blight (Isariopsis Leaf Spot).",
+        "treatment_steps": [
+            "Remove affected parts of the plant.",
+            "Ensure proper air circulation.",
+            "Avoid overhead watering."
+        ],
+        "product_recommendations": [
+            "Standard broad-spectrum fungicide",
+            "Organic neem oil spray"
+        ]
+    },
+    "Grape___healthy": {
+        "description": "The plant is healthy.",
+        "treatment_steps": [
+            "Continue regular care and monitoring."
+        ],
+        "product_recommendations": []
+    },
+    "Orange___Haunglongbing_(Citrus_greening)": {
+        "description": "The plant is showing signs of Haunglongbing (Citrus greening).",
+        "treatment_steps": [
+            "Remove affected parts of the plant.",
+            "Ensure proper air circulation.",
+            "Avoid overhead watering."
+        ],
+        "product_recommendations": [
+            "Standard broad-spectrum fungicide",
+            "Organic neem oil spray"
+        ]
+    },
+    "Peach___Bacterial_spot": {
+        "description": "The plant is showing signs of Bacterial spot.",
+        "treatment_steps": [
+            "Remove affected parts of the plant.",
+            "Ensure proper air circulation.",
+            "Avoid overhead watering."
+        ],
+        "product_recommendations": [
+            "Standard broad-spectrum fungicide",
+            "Organic neem oil spray"
+        ]
+    },
+    "Peach___healthy": {
+        "description": "The plant is healthy.",
+        "treatment_steps": [
+            "Continue regular care and monitoring."
+        ],
+        "product_recommendations": []
+    },
+    "Pepper,_bell___Bacterial_spot": {
+        "description": "The plant is showing signs of Bacterial spot.",
+        "treatment_steps": [
+            "Remove affected parts of the plant.",
+            "Ensure proper air circulation.",
+            "Avoid overhead watering."
+        ],
+        "product_recommendations": [
+            "Standard broad-spectrum fungicide",
+            "Organic neem oil spray"
+        ]
+    },
+    "Pepper,_bell___healthy": {
+        "description": "The plant is healthy.",
+        "treatment_steps": [
+            "Continue regular care and monitoring."
+        ],
+        "product_recommendations": []
+    },
+    "Potato___Early_blight": {
+        "description": "The plant is showing signs of Early blight.",
+        "treatment_steps": [
+            "Remove affected parts of the plant.",
+            "Ensure proper air circulation.",
+            "Avoid overhead watering."
+        ],
+        "product_recommendations": [
+            "Standard broad-spectrum fungicide",
+            "Organic neem oil spray"
+        ]
+    },
+    "Potato___Late_blight": {
+        "description": "The plant is showing signs of Late blight.",
+        "treatment_steps": [
+            "Remove affected parts of the plant.",
+            "Ensure proper air circulation.",
+            "Avoid overhead watering."
+        ],
+        "product_recommendations": [
+            "Standard broad-spectrum fungicide",
+            "Organic neem oil spray"
+        ]
+    },
+    "Potato___healthy": {
+        "description": "The plant is healthy.",
+        "treatment_steps": [
+            "Continue regular care and monitoring."
+        ],
+        "product_recommendations": []
+    },
+    "Raspberry___healthy": {
+        "description": "The plant is healthy.",
+        "treatment_steps": [
+            "Continue regular care and monitoring."
+        ],
+        "product_recommendations": []
+    },
+    "Soybean___healthy": {
+        "description": "The plant is healthy.",
+        "treatment_steps": [
+            "Continue regular care and monitoring."
+        ],
+        "product_recommendations": []
+    },
+    "Squash___Powdery_mildew": {
+        "description": "The plant is showing signs of Powdery mildew.",
+        "treatment_steps": [
+            "Remove affected parts of the plant.",
+            "Ensure proper air circulation.",
+            "Avoid overhead watering."
+        ],
+        "product_recommendations": [
+            "Standard broad-spectrum fungicide",
+            "Organic neem oil spray"
+        ]
+    },
+    "Strawberry___Leaf_scorch": {
+        "description": "The plant is showing signs of Leaf scorch.",
+        "treatment_steps": [
+            "Remove affected parts of the plant.",
+            "Ensure proper air circulation.",
+            "Avoid overhead watering."
+        ],
+        "product_recommendations": [
+            "Standard broad-spectrum fungicide",
+            "Organic neem oil spray"
+        ]
+    },
+    "Strawberry___healthy": {
+        "description": "The plant is healthy.",
+        "treatment_steps": [
+            "Continue regular care and monitoring."
+        ],
+        "product_recommendations": []
+    },
+    "Tomato___Bacterial_spot": {
+        "description": "The plant is showing signs of Bacterial spot.",
+        "treatment_steps": [
+            "Remove affected parts of the plant.",
+            "Ensure proper air circulation.",
+            "Avoid overhead watering."
+        ],
+        "product_recommendations": [
+            "Standard broad-spectrum fungicide",
+            "Organic neem oil spray"
+        ]
+    },
+    "Tomato___Early_blight": {
+        "description": "Early blight is caused by the fungus Alternaria solani...",
+        "treatment_steps": [
+            "Remove and destroy infected leaves immediately.",
+            "Apply copper-based fungicide every 7\u201310 days.",
+            "Avoid overhead watering."
+        ],
+        "product_recommendations": [
+            "Indofil M-45 (Mancozeb 75% WP)",
+            "Blitox 50 (Copper Oxychloride 50% WP)"
+        ]
+    },
+    "Tomato___Late_blight": {
+        "description": "The plant is showing signs of Late blight.",
+        "treatment_steps": [
+            "Remove affected parts of the plant.",
+            "Ensure proper air circulation.",
+            "Avoid overhead watering."
+        ],
+        "product_recommendations": [
+            "Standard broad-spectrum fungicide",
+            "Organic neem oil spray"
+        ]
+    },
+    "Tomato___Leaf_Mold": {
+        "description": "The plant is showing signs of Leaf Mold.",
+        "treatment_steps": [
+            "Remove affected parts of the plant.",
+            "Ensure proper air circulation.",
+            "Avoid overhead watering."
+        ],
+        "product_recommendations": [
+            "Standard broad-spectrum fungicide",
+            "Organic neem oil spray"
+        ]
+    },
+    "Tomato___Septoria_leaf_spot": {
+        "description": "The plant is showing signs of Septoria leaf spot.",
+        "treatment_steps": [
+            "Remove affected parts of the plant.",
+            "Ensure proper air circulation.",
+            "Avoid overhead watering."
+        ],
+        "product_recommendations": [
+            "Standard broad-spectrum fungicide",
+            "Organic neem oil spray"
+        ]
+    },
+    "Tomato___Spider_mites Two-spotted_spider_mite": {
+        "description": "The plant is showing signs of Spider mites Two-spotted spider mite.",
+        "treatment_steps": [
+            "Remove affected parts of the plant.",
+            "Ensure proper air circulation.",
+            "Avoid overhead watering."
+        ],
+        "product_recommendations": [
+            "Standard broad-spectrum fungicide",
+            "Organic neem oil spray"
+        ]
+    },
+    "Tomato___Target_Spot": {
+        "description": "The plant is showing signs of Target Spot.",
+        "treatment_steps": [
+            "Remove affected parts of the plant.",
+            "Ensure proper air circulation.",
+            "Avoid overhead watering."
+        ],
+        "product_recommendations": [
+            "Standard broad-spectrum fungicide",
+            "Organic neem oil spray"
+        ]
+    },
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+        "description": "The plant is showing signs of Tomato Yellow Leaf Curl Virus.",
+        "treatment_steps": [
+            "Remove affected parts of the plant.",
+            "Ensure proper air circulation.",
+            "Avoid overhead watering."
+        ],
+        "product_recommendations": [
+            "Standard broad-spectrum fungicide",
+            "Organic neem oil spray"
+        ]
+    },
+    "Tomato___Tomato_mosaic_virus": {
+        "description": "The plant is showing signs of Tomato mosaic virus.",
+        "treatment_steps": [
+            "Remove affected parts of the plant.",
+            "Ensure proper air circulation.",
+            "Avoid overhead watering."
+        ],
+        "product_recommendations": [
+            "Standard broad-spectrum fungicide",
+            "Organic neem oil spray"
+        ]
+    },
+    "Tomato___healthy": {
+        "description": "The plant is healthy.",
+        "treatment_steps": [
+            "Continue regular care and monitoring."
+        ],
+        "product_recommendations": []
+    },
+    "Pepper__bell___Bacterial_spot": {
+        "description": "The plant is showing signs of Bacterial spot.",
+        "treatment_steps": [
+            "Remove affected parts of the plant.",
+            "Ensure proper air circulation.",
+            "Avoid overhead watering."
+        ],
+        "product_recommendations": [
+            "Standard broad-spectrum fungicide",
+            "Organic neem oil spray"
+        ]
+    },
+    "Pepper__bell___healthy": {
+        "description": "The plant is healthy.",
+        "treatment_steps": [
+            "Continue regular care and monitoring."
+        ],
+        "product_recommendations": []
+    },
+    "Tomato_Bacterial_spot": {
+        "description": "The plant is showing signs of Tomato_Bacterial_spot.",
+        "treatment_steps": [
+            "Remove affected parts of the plant.",
+            "Ensure proper air circulation.",
+            "Avoid overhead watering."
+        ],
+        "product_recommendations": [
+            "Standard broad-spectrum fungicide",
+            "Organic neem oil spray"
+        ]
+    },
+    "Tomato_Early_blight": {
+        "description": "The plant is showing signs of Tomato_Early_blight.",
+        "treatment_steps": [
+            "Remove affected parts of the plant.",
+            "Ensure proper air circulation.",
+            "Avoid overhead watering."
+        ],
+        "product_recommendations": [
+            "Standard broad-spectrum fungicide",
+            "Organic neem oil spray"
+        ]
+    },
+    "Tomato_healthy": {
+        "description": "The plant is healthy.",
+        "treatment_steps": [
+            "Continue regular care and monitoring."
+        ],
+        "product_recommendations": []
+    },
+    "Tomato_Late_blight": {
+        "description": "The plant is showing signs of Tomato_Late_blight.",
+        "treatment_steps": [
+            "Remove affected parts of the plant.",
+            "Ensure proper air circulation.",
+            "Avoid overhead watering."
+        ],
+        "product_recommendations": [
+            "Standard broad-spectrum fungicide",
+            "Organic neem oil spray"
+        ]
+    },
+    "Tomato_Leaf_Mold": {
+        "description": "The plant is showing signs of Tomato_Leaf_Mold.",
+        "treatment_steps": [
+            "Remove affected parts of the plant.",
+            "Ensure proper air circulation.",
+            "Avoid overhead watering."
+        ],
+        "product_recommendations": [
+            "Standard broad-spectrum fungicide",
+            "Organic neem oil spray"
+        ]
+    },
+    "Tomato_Septoria_leaf_spot": {
+        "description": "The plant is showing signs of Tomato_Septoria_leaf_spot.",
+        "treatment_steps": [
+            "Remove affected parts of the plant.",
+            "Ensure proper air circulation.",
+            "Avoid overhead watering."
+        ],
+        "product_recommendations": [
+            "Standard broad-spectrum fungicide",
+            "Organic neem oil spray"
+        ]
+    },
+    "Tomato_Spider_mites_Two_spotted_spider_mite": {
+        "description": "The plant is showing signs of Tomato_Spider_mites_Two_spotted_spider_mite.",
+        "treatment_steps": [
+            "Remove affected parts of the plant.",
+            "Ensure proper air circulation.",
+            "Avoid overhead watering."
+        ],
+        "product_recommendations": [
+            "Standard broad-spectrum fungicide",
+            "Organic neem oil spray"
+        ]
+    },
+    "Tomato__Target_Spot": {
+        "description": "The plant is showing signs of Tomato__Target_Spot.",
+        "treatment_steps": [
+            "Remove affected parts of the plant.",
+            "Ensure proper air circulation.",
+            "Avoid overhead watering."
+        ],
+        "product_recommendations": [
+            "Standard broad-spectrum fungicide",
+            "Organic neem oil spray"
+        ]
+    },
+    "Tomato__Tomato_mosaic_virus": {
+        "description": "The plant is showing signs of Tomato__Tomato_mosaic_virus.",
+        "treatment_steps": [
+            "Remove affected parts of the plant.",
+            "Ensure proper air circulation.",
+            "Avoid overhead watering."
+        ],
+        "product_recommendations": [
+            "Standard broad-spectrum fungicide",
+            "Organic neem oil spray"
+        ]
+    },
+    "Tomato__Tomato_YellowLeaf__Curl_Virus": {
+        "description": "The plant is showing signs of Tomato__Tomato_YellowLeaf__Curl_Virus.",
+        "treatment_steps": [
+            "Remove affected parts of the plant.",
+            "Ensure proper air circulation.",
+            "Avoid overhead watering."
+        ],
+        "product_recommendations": [
+            "Standard broad-spectrum fungicide",
+            "Organic neem oil spray"
+        ]
+    }
+}
