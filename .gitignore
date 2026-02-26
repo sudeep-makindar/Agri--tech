@@ -1,0 +1,15 @@
+node_modules/
+.next/
+out/
+build/
+.env
+.env.local
+__pycache__/
+*.pyc
+venv/
+.venv/
+.DS_Store
+*.h5
+*.pkl
+ml_models/disease_model.h5
+ml_models/crop_model.pkl
